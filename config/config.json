@@ -1,1 +1,8 @@
-{}
+{
+  "connections": {
+    "MongoDB server": {
+      "connection_string": "mongodb://10.133.41.33:27017/",
+      "connection_options": {}
+    }
+  }
+}
